@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Альбом Фотографий</string>
+    <string name="welcome_text">Вас приветствует альбом любимых фотографий Android Developer</string>
+    <string name="start_button">Начать просмотр</string>
+    <string name="next_button">Следующее фото</string>
+    <string name="final_text">Спасибо за просмотр! До свидания</string>
+    <string name="finish_button">Завершить</string>
+    <string name="photo">Photo</string>
+</resources>

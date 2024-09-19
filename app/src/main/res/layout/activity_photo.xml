@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="@dimen/padding_large">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="@dimen/_200dp"
+        android:layout_height="@dimen/_200dp"
+        android:scaleType="centerCrop"
+        android:background="@drawable/rounded_corners"
+        android:layout_marginBottom="@dimen/_50dp"
+        android:contentDescription="@string/photo" />
+
+    <Button
+        android:id="@+id/nextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/next_button" />
+</LinearLayout>
